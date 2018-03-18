@@ -1,0 +1,3 @@
+[0318/171730.745:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0318/171730.764:ERROR:exception_snapshot_win.cc(88)] thread ID 13276 not found in process
+[0318/171730.764:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
